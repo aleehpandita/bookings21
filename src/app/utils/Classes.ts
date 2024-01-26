@@ -1,0 +1,15 @@
+export const MegaMenuHeading = 'font-bold text-xl text-gray-900 text-bold mb-2 mx-2';
+export const MegaMenuHref = 'relative block py-3 px-3 lg:p-3 text-sm font-bold hover:bg-white hover:text-gray-900 active:text-yellow-500 font-mono uppercase';
+export const PrimaryColor = '#2153AD';
+export const MegaMenuLi = 'hoverable hover:bg-white hover:text-gray-900 ';
+export const PText = 'text-gray-900 text-sm';
+export const FindButton = 'text-gray-900 bold border-b-2 border-gray-900 hover:text-gray-900';
+export const UlMegaMenu = 'px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-900 border-b sm:border-b-0 sm:border-r md:border-b-0 pb-6 pt-6 lg:pt-3';
+export const FindClass = 'text-gray-900 bold border-b-2 border-gray-900  hover:text-gray-900';
+export const py3Flex = 'flex items-center py-3';
+export const navbarClass = 'relative hidden md:block lg:block xl:block bg-blue-900 border-b-2 border-blue-700 text-white';
+export const serviceCard = 'px-3 relative overflow-hidden bg-white  rounded-lg  shadow-lg   border-2 border-blue-700 border-opacity-10';
+export const serviceCardDiv = 'relative  flex items-center justify-center  hover:opacity-0 ';
+export const serviceCardSecondDiv = 'block absolute  bottom-0 left-0  ';
+export const titleDivCard = 'relative text-gray-900 pb-6 mt-6';
+export const orangeDiv = 'block bg-blue-700 rounded-full text-white  text-xs font-bold px-3 py-2 leading-none flex items-center orange-div';
